@@ -1,2 +1,3 @@
 # :wave: Greetings...
-Hello! My name is kengxi, I came from Thailand.
+Hello! My name is kengxi, I came from Thailand. <br>
+I'm not so good with grammar. So, if I have bad grammar I'm sorry for that.
