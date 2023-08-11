@@ -1,2 +1,2 @@
 # :wave: Greetings...
-Hello! My name is kengxi and I came from Thailand.
+Hello! My name is kengxi, I came from Thailand.
